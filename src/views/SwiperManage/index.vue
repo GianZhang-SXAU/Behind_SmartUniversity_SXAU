@@ -1,7 +1,7 @@
 <template>
     <div class="SwiperManage">
         <div class="title">
-            <p>上传轮播图</p>
+            <p>上传用户端轮播图图片</p>
             <a-upload v-model:file-list="fileList" name="file" action="/api/file/upload" :showUploadList="false"
                 @change="UploadChange">
                 <a-button>
