@@ -1,0 +1,1 @@
+export const columns = [{"title":"名称","dataIndex":"name","key":"name","align":"center"},{"width":200,"title":"操作","fixed":"right","dataIndex":"opera","align":"center"}]

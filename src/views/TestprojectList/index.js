@@ -1,0 +1,1 @@
+export const columns = [{"title":"项目名称","dataIndex":"name","key":"name","align":"center"},{"title":"项目分类","dataIndex":"classify","key":"classify","align":"center"},{"title":"创建人","dataIndex":"addusername","key":"addusername","align":"center"},{"width":200,"title":"操作","fixed":"right","dataIndex":"opera","align":"center"}]

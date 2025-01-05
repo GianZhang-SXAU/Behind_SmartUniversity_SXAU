@@ -1,0 +1,1 @@
+export const columns = [{"title":"车辆名称","dataIndex":"name","key":"name","align":"center"},{"title":"用户名称","dataIndex":"username","key":"username","align":"center"},{"title":"审核","dataIndex":"shenhe","key":"shenhe","align":"center"},{"width":200,"title":"操作","fixed":"right","dataIndex":"opera","align":"center"}]
